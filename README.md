@@ -5,15 +5,15 @@ Test versions of the program are closed access, only for developers and blogger'
 #### Windows 7/8/8.1/10
 
 
-## [:white_check_mark:Version - 7.8.4 - stable](s915550z.beget.tech/setup.exe)
+## [:white_check_mark:Version - 7.8.4 - stable](http://s915550z.beget.tech/setup.exe)
 ##### -Updating the database
 ##### -Added a section for bloggers
 
-## [:white_check_mark:Version - 7.8.2](s915550z.beget.tech/setup.exe)
+## [:white_check_mark:Version - 7.8.2](http://s915550z.beget.tech/setup.exe)
 ##### -Updating the interface
 ##### -Ability to invite partners via a referral link
 
-## [:white_check_mark:Version - 7.8.0](s915550z.beget.tech/setup.exe)
+## [:white_check_mark:Version - 7.8.0](http://s915550z.beget.tech/setup.exe)
 ##### -Minor corrections
 ##### -Improved display of coupons
 
