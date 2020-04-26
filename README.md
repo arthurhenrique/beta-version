@@ -1,7 +1,7 @@
-# BetaVersions - Click version to download.
+# Beta versions
 
 Test versions of the program are closed access, only for developers and blogger's review. 
-#### 
+#### Click version to download.
 #### Windows 7/8/8.1/10
 
 
